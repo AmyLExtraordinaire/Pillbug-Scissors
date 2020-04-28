@@ -1,6 +1,6 @@
 Title: Pillbug Scissors
 
-General Description: succ
+General Description: something of a Zelda clone, top down
 
 Genre: RPG
 
