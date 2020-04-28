@@ -1,6 +1,6 @@
 Title: Pillbug Scissors
 
-General Description: [TODO]
+General Description: succ
 
 Genre: RPG
 
