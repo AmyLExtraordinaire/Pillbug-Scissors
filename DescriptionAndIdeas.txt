@@ -1,0 +1,15 @@
+Title: Pillbug Scissors
+
+General Description: [TODO]
+
+Genre: RPG
+
+Ideas to Think of:
+	Jakes thots:[
+	movement mechanics
+	camera mechanics
+	camera style?
+	honestly I don't know what all goes into making a game
+	interesting mechanics (be it combat or story or whatnot)
+	RPG? need lore and basic story
+	]
